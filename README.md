@@ -8,6 +8,10 @@ https://github.com/sokosun/atoms3_p105_control/assets/130550408/413e4b8f-5199-40
 
 Please modify Wifi and P105 information before run.
 
+## Supported Smart plug
+
+* TP-Link P105
+
 ## Supported Hardware
 
 * [ATOMS3](https://docs.m5stack.com/en/core/AtomS3)
