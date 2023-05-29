@@ -2,7 +2,7 @@
 
 This project demonstrates smart plug control with AtomS3 / AtomS3 Lite. 
 
-<div><video controls src="./p105_control.mp4" muted="false"></video></div>
+https://github.com/sokosun/atoms3_p105_control/assets/130550408/413e4b8f-5199-403f-aa85-c07752ae926a
 
 ## Notes
 
